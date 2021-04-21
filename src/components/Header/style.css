@@ -1,13 +1,28 @@
 @font-face {
     font-family: 'poppins_regular' ;
     src: url('../../fonts/poppins_regular.woff2') format('truetype');
-    font-family: 'pop' ;
+}
+ @font-face{
+    font-family: 'pacifico' ;
     src: url('../../fonts/pacifico_regular.woff2') format('truetype');
- 
+ }
+ @font-face{
+    font-family: 'poppins_medium' ;
+    src: url('../../fonts/poppins_medium.woff2') format('truetype');
+ }
+ @font-face{
+    font-family: 'patua' ;
+    src: url('../../fonts/patua_regular.woff2') format('truetype');
  }
 body{
-    background-color: rgb(206, 206, 201);
+    background-color: rgb(244, 238, 234);
     margin: 0%;
+}
+a:hover{
+    color: rgb(125, 125, 165);
+}
+button:hover{
+    color: rgb(125, 125, 165);
 }
 .containerHeader{
     display: inline-flexbox;
@@ -19,15 +34,68 @@ body{
     margin: 1% 0% 0% 3%;
     position: relative;
 }
-.infoHeader{
+
+.textHeader{
     position: relative;
     top: -5vh;
-    color:rgb(57, 57, 150);
-    display: inline-flex;
-    align-items: center;
-    font-size: 1.5vh;
+    right: -2vh;
+    font-size: 1.8vh;
+    font-weight: initial;
     font-family: 'poppins_regular';
+    white-space: nowrap;
+    padding-right: 2%;
+    align-items: center;
+    color:rgb(57, 57, 150);
+    text-decoration: none;
 }
-.textHeader{
-    padding: 2%;
+.modalNavegation{
+    display: none;
+}
+.fundationNameHeader{
+    display: none;
+}
+@media screen and (max-width: 768px){
+    .infoHeader{
+        display: none;
+    }
+    .modalNavegation{
+        display: flex;
+        position: relative;
+        right: -50%;
+        font-size: 7vw;
+        margin-bottom: 3%;
+        color: rgb(57, 57, 150);
+    }
+    .iconHeader{
+        position: relative;
+        width: 7vh;
+        margin: 2%;
+    }
+    .fundationNameHeader{
+        display: flex;
+        color:rgb(57, 57, 150);
+        font-family: 'pacifico';
+        font-weight: lighter;
+        font-size: 5vw;
+        letter-spacing: 3px;
+        position: absolute;
+        top: 0.95%;
+        right: 7%;
+    }
+    .modalContainer{
+        display: inline-flex;
+        color: rgb(57, 57, 150);
+        text-decoration: none;
+        opacity: 90%;
+        text-align: center;
+    }
+    .modalContainer a{
+        color: rgb(57, 57, 150);
+        font-size: 4vw;
+        margin: 0%;
+        padding: 0%;
+    }
+    a:hover{
+        color: rgb(133, 133, 186);
+    }
 }

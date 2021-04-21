@@ -18,16 +18,16 @@ class Content extends Component {
                <h3 className='contentTitle'>Asistencia social</h3>
                <h4 className='contentDescription'>para mujeres sin fines de lucro</h4>
                <div className='containerFirstSection' style={{fontSize: '2%'}}>
-                  <div className='containerAsssistance1'>
-                     <img src={social_asssistance1} alt="" style={{width: '90%', paddingTop: '5%'}}/>
-                     <h5>somos una institucion</h5>
+                  <div className='containerAsssistance'>
+                     <img src={social_asssistance1} className='containerAsssistanceImg1' alt=""/>
+                     <h5>Somos una institucion</h5>
                   </div>
-                  <div className='containerAsssistance2'>
-                     <img src={social_asssistance2} alt="" style={{width: '90%', paddingTop: '1.5%'}}/>
+                  <div className='containerAsssistance'>
+                     <img src={social_asssistance2} className='containerAsssistanceImg2' alt=""/>
                      <h5>que busca el bienestar social, no por cumplir una estadìsticas</h5>
                   </div>
-                  <div className='containerAsssistance3'>
-                     <img src={social_asssistance3} alt="" style={{width: '95%', paddingTop: '2%'}}/>
+                  <div className='containerAsssistance'>
+                     <img src={social_asssistance3} className='containerAsssistanceImg3' alt=""/>
                      <h5>o llegar a una meta</h5>
                   </div>
                </div>

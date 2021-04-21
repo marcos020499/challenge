@@ -12,21 +12,21 @@ class Header extends Component {
    render() {
       return (
          <div className='containerFooter'>
-            <img src={logo_bco} alt="" style={{width: '4vh', marginTop: '1%'}}/>
+            <img src={logo_bco} alt="" className='logo_bcoFooter'/>
             <h3 className='fundationName'>Fundacion Lolita Barragan</h3>
             <div className='infoFooter'>
-                <h3 className='textHeader'>Nosotros</h3>
-                <h3 className='textHeader'>Historia</h3>
-                <h3 className='textHeader'>Labor Social</h3>
-                <h3 className='textHeader'>Crèditos</h3>
-                <h3 >Contacto</h3>
+               <a href='/' className='textFooter'>Nosotros</a>
+               <a href='/' className='textFooter'>Historia</a>
+               <a href='/' className='textFooter'>Labor Social</a>
+               <a href='/' className='textFooter'>Crèditos</a>
+               <a href='/' className='textFooter'>Contacto</a>
             </div>
             <div>
-               <img src={fb} alt="" style={{width: '1vh'}}/>
+               <img src={fb} alt="" style={{width: '1.2vh'}}/>
                <div className='AliatFooter'>
-                  <h3 style={{margin: '0'}}>Politica de privacidad.</h3>
-                  <h3 style={{margin: '0'}}>hecho por </h3>
-                  <h3 style={{marginBottom: '0'}}>Aliat Agency</h3>
+                  <p style={{marginBottom: '1%'}}>Politica de privacidad.</p>
+                  <p style={{margin: '0%'}}>hecho por </p>
+                  <p style={{margin: '0%'}}>Aliat Agency</p>
                </div>
             </div>
          </div>

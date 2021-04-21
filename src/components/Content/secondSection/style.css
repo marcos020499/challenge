@@ -1,39 +1,180 @@
-@font-face {
-    font-family: 'patua';
-    src: url('../../../fonts/patua_regular.woff2') format('truetype');
-    font-family: 'pacifico';
-    src: url('../../../fonts/pacifico_regular.woff2') format('truetype');
- }
 .containerSecondSection{
-    margin: 0% 0% 0% 8%;
-    font-size: 3.5vw;
+    margin: 0% 13% 0% 13%;
+    font-size: 2.3vw;
     color: rgb(57, 57, 150);
+    font-family: 'patua';
 }
 .small{
     font-family: 'pacifico';
+    letter-spacing: 3px;
+    opacity: 70%;
+    font-size: 2.7vw;
+}
+.smallSecondText{
+    font-family: 'pacifico';
+    letter-spacing: 1px;
+    font-size: 1.5vw;
 }
 .contentSecondSection{
     display: inline-flex;
 }
+.contentSecondSectionTwo{
+    display: inline-flex;
+}
 .containerTextSecondSection{
-    font-size: 1.8vw;
+    font-size: 1.3vw;
+    font-family: 'poppins_medium';
     position: absolute;
-    width: 26%;
-    height: 28vw;
-    right: 8.5%;
+    width: 21.5%;
+    height: 29vw;
+    right: 12.5%;
     color: white;
-    background-color: rgb(61, 96, 126); 
-    padding: 1.2%;
+    background-color: rgb(150, 140, 160); 
+    padding: 2% 1.3% 1.3% 1.3%;
     font-weight: lighter;
-    letter-spacing: 1px;
+}
+.buttonSecontSection{
+    position: absolute;
+    right: 39%;
+    margin-top: 18%;
+    padding: 0.8%;
+    z-index: 2;
+    border: 0px solid black;
+    font-weight: lighter;
+    border-radius: 8px;
+    background-color: rgb(57, 57, 150);
+    color: white;
 }
 .secondContainerTextSecondSection{
     position: relative;
     top: 20%;
-    margin: -1% 10% 0% 1.5%;
-    width: 90%;
-    font-size: 2vw;
+    margin: 0% -0.6% 0% 2%;
+    width: 70%;
+    font-size: 1.4vw;
     color: rgb(98, 100, 106);
     text-align: center;
-    border: 1px solid rgb(57, 57, 150);;
+    border: 1px solid rgb(57, 57, 150);
+    padding: 0% 1% 0% 1%;
+    font-family: 'patua';
+    font-weight: lighter;
+    opacity: 60%;
+}
+.secondContainerTextSecondSection p{
+    font-size: 1.2vw;
+    opacity: 60%;
+    font-family: 'poppins_medium';
+}
+.impulse1{
+    margin-left: 2%;
+    width: 32%;
+    height: 13vw;
+}
+.impulse2{
+    position: relative;
+    width: 32%;
+    height: 15vw;
+    top: 14.5vw;
+    right: 32%;
+    margin-right: 3.5%;
+    z-index: 1;
+}
+.impulse3{
+    margin-top: 1%;
+    width: 32%;
+    height: 13vw;
+}
+.impulse4{
+    width: 32%;
+    height: 33vw;
+}
+.logo_bco{
+    width: 45%;
+    top: 5vw;
+    position: relative;
+    right: -6vw
+}
+@media screen and (max-width: 768px){
+    .containerSecondSection{
+        font-size: 4.4vw;
+        margin: 3%;
+    }
+    .contentSecondSection{
+        display: inline-flex;
+        width: 80vh;
+    }
+    .containerTextSecondSection{
+        position: absolute;
+        font-size: 2.8vw;
+        padding: 2% 1.5% 2% 2%;
+        width: 23.5vh;
+        height: 24vh;
+        right: 3.5%;
+        top: 234vh;
+        margin: 0%;
+        text-align: center;
+    }
+    .logo_bco{
+        position: relative;
+        right: 2%;
+        top: -2%;
+        width: 45%;
+    }
+    .smallSecondText{
+        font-size: 1.8vh;
+    }
+    .small{
+        font-size: 4.8vw;
+    }
+    .secondContainerTextSecondSection{
+        position: inherit;
+    }
+    .contentSecondSectionTwo{
+        display: initial;
+    }
+    .secondContainerTextSecondSection{
+        margin: 5% 0% 0% 3%;
+        width: 90%;
+        right: 1.5%;
+        font-size: 3.8vw;
+        color: rgb(98, 100, 106);
+        text-align: center;
+        border: 2px solid rgb(57, 57, 150);;
+    }
+    .secondContainerTextSecondSection p {
+        font-size: 3.4vw;
+    }
+    .impulse1{
+        margin-left: 2%;
+        width: 32%;
+        height: 16vh;
+    }
+    .impulse2{
+        position: relative;
+        width: 32%;
+        height: 14vh;
+        top: 31vw;
+        right: 32%;
+        margin-right: 3.5%;
+        z-index: 1;
+    }
+    .impulse3{
+        margin-top: 1%;
+        width: 49%;
+        height: 18vh;
+    }
+    .impulse4{
+        width: 32%;
+        height: 40vh;
+    }
+    .buttonSecontSection{
+        right: 3%;
+        margin-top: 32%;
+        padding: 1.5%;
+        z-index: 2;
+        border: 0px solid black;
+        font-weight: lighter;
+        border-radius: 8px;
+        background-color: rgb(57, 57, 150);
+        color: white;
+    }
 }
