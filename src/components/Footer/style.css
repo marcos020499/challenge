@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'poppins_regular' ;
+    src: url('../../fonts/poppins_regular.woff2') format('truetype');
+    font-family: 'pop' ;
+    src: url('../../fonts/pacifico_regular.woff2') format('truetype');
+ 
+ }
+.containerFooter{
+    background-color: blue;
+    text-align: center;
+}
+.infoFooter{
+    position: relative;
+    display: flex;
+    right: -30%;
+    align-items: center;
+    font-size: 1.2vh;
+    margin: 2.5%;
+}

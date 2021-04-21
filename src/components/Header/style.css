@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'poppins_regular' ;
+    src: url('../../fonts/poppins_regular.woff2') format('truetype');
+    font-family: 'pop' ;
+    src: url('../../fonts/pacifico_regular.woff2') format('truetype');
+ 
+ }
+.containerHeader{
+    display: inline-flexbox;
+    text-align: end;
+    margin-right: 3%;
+}
+.iconHeader{
+    width: 4vh;
+    margin-left: 3%;
+    position: relative;
+}
+.infoHeader{
+    position: relative;
+    top: -5vh;
+    display: inline-flex;
+    align-items: center;
+    font-size: 1.2vh;
+    font-family: 'poppins_regular';
+}
+.textHeader{
+    padding: 2%;
+}

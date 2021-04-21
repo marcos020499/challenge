@@ -1,0 +1,38 @@
+@font-face {
+    font-family: 'patua';
+    src: url('../../../fonts/patua_regular.woff2') format('truetype');
+    font-family: 'pacifico';
+    src: url('../../../fonts/pacifico_regular.woff2') format('truetype');
+ }
+.containerSecondSection{
+    margin: 0% 0% 0% 8%;
+    font-size: 3.5vh;
+}
+.small{
+    font-family: 'pacifico';
+}
+.contentSecondSection{
+    display: inline-flex;
+}
+.containerTextSecondSection{
+    font-size: 2vh;
+    position: absolute;
+    width: 29vh;
+    height: 33%;
+    right: 10%;
+    color: white;
+    background-color: rgb(61, 96, 126); 
+    padding: 1.2%;
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+.secondContainerTextSecondSection{
+    position: relative;
+    top: 20%;
+    margin: -1% 10% 0% 1.5%;
+    width: 90%;
+    font-size: 2vw;
+    color: blue;
+    text-align: center;
+    border: 1px solid black;
+}

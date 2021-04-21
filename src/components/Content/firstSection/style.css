@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'patua';
+    src: url('../../../fonts/poppins_regular.woff2') format('truetype');
+    font-family: 'pacifico';
+    src: url('../../../fonts/pacifico_regular.woff2') format('truetype');
+ }
+.contentTitle{
+    text-align: center;
+    font-size: 3.8vw;
+    font-family: 'patua';
+}
+.contentDescription{
+    text-align: center;
+    font-size: 1.8vw;
+    font-weight: lighter;
+    font-family: 'pacifico'; 
+    letter-spacing: 3px;
+}
+.containerFirstSection{
+    display: flex;
+    margin: 0% 8% 0% 8%;
+}
+.containerAsssistance1{
+    margin: 0.5%;
+    text-align: center;
+    background-color: aliceblue;
+    padding: 0%;
+    font-family: 'pacifico';
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+.containerAsssistance2{
+    margin: 0.5%;
+    text-align: center;
+    background-color: aliceblue;
+    padding: .5%;
+    font-family: 'pacifico';
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
+.containerAsssistance3{
+    margin: 0.5%;
+    text-align: center;
+    background-color: aliceblue;
+    padding: .5%;
+    font-family: 'pacifico';
+    font-weight: lighter;
+    letter-spacing: 1px;
+}
