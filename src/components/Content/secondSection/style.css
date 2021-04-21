@@ -17,9 +17,9 @@
 .containerTextSecondSection{
     font-size: 2vh;
     position: absolute;
-    width: 29vh;
-    height: 33%;
-    right: 10%;
+    width: 26%;
+    height: 28vw;
+    right: 8.5%;
     color: white;
     background-color: rgb(61, 96, 126); 
     padding: 1.2%;
@@ -32,7 +32,7 @@
     margin: -1% 10% 0% 1.5%;
     width: 90%;
     font-size: 2vw;
-    color: blue;
+    color: rgb(98, 100, 106);
     text-align: center;
-    border: 1px solid black;
+    border: 1px solid rgb(57, 57, 150);;
 }

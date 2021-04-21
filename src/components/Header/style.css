@@ -5,6 +5,10 @@
     src: url('../../fonts/pacifico_regular.woff2') format('truetype');
  
  }
+body{
+    background-color: rgb(206, 206, 201);
+    margin: 0%;
+}
 .containerHeader{
     display: inline-flexbox;
     text-align: end;
