@@ -12,7 +12,8 @@ class Header extends Component {
    render() {
       return (
          <div className='containerFooter'>
-             <img src={logo_bco} alt="" style={{width: '6vh'}}/>
+            <img src={logo_bco} alt="" style={{width: '6vh'}}/>
+            <h3 className='fundationName'>Fundacion Lolita Barragan</h3>
             <div className='infoFooter'>
                 <h3 className='textHeader'>Nosotros</h3>
                 <h3 className='textHeader'>Historia</h3>
@@ -21,10 +22,12 @@ class Header extends Component {
                 <h3 >Contacto</h3>
             </div>
             <div>
-               <img src={fb} alt="" style={{width: '1.6vh'}}/>
-               <h3>Politica de privacidad.</h3>
-               <h3>hecho por </h3>
-               <h3>Aliat Agency</h3>
+               <img src={fb} alt="" style={{width: '1vh'}}/>
+               <div className='AliatFooter'>
+                  <h3 style={{margin: '0'}}>Politica de privacidad.</h3>
+                  <h3 style={{margin: '0'}}>hecho por </h3>
+                  <h3>Aliat Agency</h3>
+               </div>
             </div>
          </div>
       )
