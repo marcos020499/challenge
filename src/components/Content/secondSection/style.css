@@ -6,7 +6,8 @@
  }
 .containerSecondSection{
     margin: 0% 0% 0% 8%;
-    font-size: 3.5vh;
+    font-size: 3.5vw;
+    color: rgb(57, 57, 150);
 }
 .small{
     font-family: 'pacifico';
@@ -15,7 +16,7 @@
     display: inline-flex;
 }
 .containerTextSecondSection{
-    font-size: 2vh;
+    font-size: 1.8vw;
     position: absolute;
     width: 26%;
     height: 28vw;

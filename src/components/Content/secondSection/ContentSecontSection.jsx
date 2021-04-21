@@ -23,8 +23,8 @@ class Content extends Component {
                   <img src={impulse1} alt="" style={{width: '27%', height: '10%', marginLeft: '1.5%'}}/>
                   <img src={impulse2} alt="" style={{width: '27%', height: '10%', position: 'relative', top: '14.2vw', right: '27%', marginTop: '2.5%'}}/>
                   <div className='containerTextSecondSection'>
-                     <h4>Nuestro objetivo es ayudar a que las familiar mejoren su calidad de vida.</h4>
-                     <img src={logo_bco} alt="" style={{width: '50%', alignContent: 'baseline'}}/>
+                     <h4>Nuestro objetivo es ayudar a que las familiar mejoren <small className='small'>su calidad de vida.</small></h4>
+                     <img src={logo_bco} alt="" style={{width: '50%', position: 'relative', right: '-6vw'}}/>
                   </div>
                </div>
                <div className="contentSecondSection">
