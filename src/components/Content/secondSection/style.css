@@ -27,16 +27,16 @@
     position: absolute;
     width: 21.5vw;
     height: 29vw;
-    right: 12.5vw;
+    right: 12.2vw;
     color: white;
     background-color: rgb(150, 140, 160); 
-    padding: 2% 1.3% 1.3% 1.3%;
+    padding: 2% 2% 1.3% 1%;
     font-weight: lighter;
 }
 .buttonSecontSection{
     position: absolute;
-    right: 39%;
-    margin-top: 15%;
+    right: 38%;
+    margin-top: 16%;
     padding: 0.8%;
     z-index: 2;
     border: 0px solid black;
@@ -64,16 +64,16 @@
     color: rgb(174, 177, 184);
 }
 .impulse1{
-    margin-left: 2%;
-    width: 32%;
-    height: 13vw;
+    margin-left: 0.4%;
+    width: 35%;
+    height: 14vw;
 }
 .impulse2{
     position: relative;
-    width: 32%;
+    width: 35%;
     height: 15vw;
-    top: 14.5vw;
-    right: 24vw;
+    top: 15.5vw;
+    right: 26.3vw;
 }
 .impulse3{
     margin-top: 1%;
@@ -136,21 +136,20 @@
         text-align: center;
         opacity: 90;
         border: 0.7vw solid rgb(57, 57, 150);;
+        margin-bottom: 5vw;
     }
     .secondContainerTextSecondSection p {
         font-size: 3.4vw;
     }
     .impulse1{
         height: 26vw;
-        width: 48vw;
+        margin-left: 2vw;
     }
     .impulse2{
         position: relative;
-        width: 48vw;
         height: 24vw;
         top: 31vw;
         right: 49vw;
-        margin-left: 1vw;
     }
     .impulse3{
         margin-top: 1vw;
@@ -164,7 +163,7 @@
     .buttonSecontSection{
         margin-top: 32vw;
         right: 3vw;
-        font-size: 2.9vw;
-        padding: 1.5vw;
+        font-size: 3.2vw;
+        padding: 1.7vw;
     }
 }
