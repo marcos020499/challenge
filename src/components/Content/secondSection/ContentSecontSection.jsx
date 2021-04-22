@@ -31,7 +31,7 @@ class Content extends Component {
                <div className="contentSecondSectionTwo">
                   <img src={impulse3} alt="" className='impulse3'/>
                      <div className='secondContainerTextSecondSection'>
-                        <h4>!Mas de 340 creditos otorgados a lo largo de 40 meses</h4>
+                        <h4>!Màs de 340 crèditos otorgados a lo largo de 40 meses!</h4>
                         <p>Buscamos siempre llegar a las mujeres comprometidas con cumplir sus objetivos y mejorar su calidad de vida.</p>
                      </div>
                </div>

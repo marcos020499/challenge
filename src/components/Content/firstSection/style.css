@@ -70,6 +70,9 @@
         opacity: none;
         padding-bottom: 4%;
     }
+    .containerAsssistance{
+        border-radius: 15px;
+    }
     .containerAsssistanceImg1{
         height: 40vh;
         width: 80%;
