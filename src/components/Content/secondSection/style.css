@@ -104,19 +104,19 @@
     .containerTextSecondSection{
         position: relative;
         font-size: 2.4vw;
-        padding: 0% 27vw 1vw 1vw;
+        padding: 0% 24vw 1vw 1vw;
         height: 38vw;
         right: 95.5vw;
         top: 57vw;
         margin: 0%;
-        text-align: justify;
+        text-align: left;
     }
     .logo_bco{
         position: inherit;
         padding: 0vw;
         right: -20vw;
-        margin-top: -18vw;
-        width: 15vw;
+        top: -30vw;
+        width: 18vw;
     }
     .smallSecondText{
         font-size: 2.4vw;
