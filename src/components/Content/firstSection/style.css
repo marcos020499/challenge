@@ -32,7 +32,7 @@
     letter-spacing: 0.5px;
 }
 .containerAsssistance p{ 
-    opacity: 50%;
+    opacity: 60% !important;
 }
 .containerAsssistanceImg1{
     width: 92%;
