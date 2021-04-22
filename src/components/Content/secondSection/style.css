@@ -95,7 +95,7 @@
 @media screen and (max-width: 768px){
     .containerSecondSection{
         font-size: 4.4vw;
-        margin: 3%;
+        margin: 0% 3vw 0% 3vw;
     }
     .contentSecondSection{
         display: inline-flex;
@@ -108,7 +108,7 @@
         height: 38vw;
         right: 95.5vw;
         top: 57vw;
-        margin: 0%;
+        margin: 0vw;
         text-align: left;
     }
     .logo_bco{
