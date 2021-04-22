@@ -42,7 +42,7 @@ button:hover{
     position: relative;
     top: -5vh;
     right: -2vh;
-    font-size: 1.8vh;
+    font-size: 1.5vh;
     font-weight: initial;
     font-family: 'poppins_regular';
     white-space: nowrap;
@@ -100,5 +100,8 @@ button:hover{
     }
     a:hover{
         color: rgb(133, 133, 186);
+    }
+    .modal{
+        margin-top: 9vw;
     }
 }
