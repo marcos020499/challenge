@@ -30,7 +30,7 @@
     right: 12.2vw;
     color: white;
     background-color: rgb(150, 140, 160); 
-    padding: 2% 2% 1.3% 1%;
+    padding: 2vw 2vw 1.3vw 1vw;
     font-weight: lighter;
 }
 .buttonSecontSection{
@@ -65,7 +65,7 @@
 }
 .impulse1{
     margin-left: 1vw;
-    width: 25vw;
+    width: 33%;
     height: 14vw;
 }
 .impulse2{
@@ -97,7 +97,6 @@
     }
     .contentSecondSection{
         display: inline-flex;
-        width: 80vw;
     }
     .containerTextSecondSection{
         position: relative;
@@ -141,7 +140,7 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        width: 62%;
+        width: 35%;
         height: 26vw;
         margin: 0vw 0vw 0vw 2vw;
         padding: 0vw;
