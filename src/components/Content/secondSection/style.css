@@ -26,7 +26,7 @@
     font-family: 'poppins_medium';
     position: absolute;
     width: 21.5vw;
-    height: 29vw;
+    height: 27.3vw;
     right: 12.2vw;
     color: white;
     background-color: rgb(150, 140, 160); 
@@ -106,7 +106,7 @@
         height: 38vw;
         right: 95.5vw;
         top: 57vw;
-        margin-left: 5vw;
+        margin: 0vw 1vw 0vw 4.5vw;
         text-align: left;
     }
     .logo_bco{
@@ -142,14 +142,16 @@
         font-size: 3.4vw;
     }
     .impulse1{
+        width: 50vw;
         height: 26vw;
         margin-left: 2vw;
     }
     .impulse2{
         position: relative;
+        width: 50vw;
         height: 24vw;
         top: 31vw;
-        right: 49vw;
+        right: 49.7vw;
     }
     .impulse3{
         margin-top: 1vw;
