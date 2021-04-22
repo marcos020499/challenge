@@ -100,10 +100,10 @@
     .containerTextSecondSection{
         position: relative;
         font-size: 2.6vw;
-        padding: 0vw 24% 1% 1%;
-        height: 38vw;
-        right: 93.5vw;
-        top: 57vw;
+        padding: 0vw 22% 1% 1%;
+        height: 39vw;
+        right: 91.5vw;
+        top: 56vw;
         margin: 0% 1% 0vw 8.5%;
         text-align: left;
     }
@@ -148,14 +148,14 @@
         position: relative;
         width: 42%;
         height: 24vw;
-        top: 31vw;
+        top: 29vw;
         right: 44vw;
         padding: 0vw;
         margin-left: 5%;
     }
     .impulse3{
         margin-top: 1vw;
-        width: 52%;
+        width: 55%;
         height: 34vw;
     }
     .impulse4{
