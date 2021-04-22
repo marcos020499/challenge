@@ -101,9 +101,9 @@
     .containerTextSecondSection{
         position: relative;
         font-size: 2.6vw;
-        padding: 0vw 22.3vw 1vw 1vw;
+        padding: 0vw 24vw 1vw 1vw;
         height: 38vw;
-        right: 95.5vw;
+        right: 92vw;
         top: 57vw;
         margin: 0vw 1vw 0vw 4.5vw;
         text-align: left;
@@ -140,27 +140,27 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        width: 35%;
+        width: 48%;
         height: 26vw;
         margin: 0vw 0vw 0vw 2vw;
         padding: 0vw;
     }
     .impulse2{
         position: relative;
-        width: 50vw;
+        width: 48%;
         height: 24vw;
         top: 31vw;
-        right: 49.7vw;
+        right: 45vw;
         padding: 0vw;
         margin: 0vw;
     }
     .impulse3{
         margin-top: 1vw;
-        width: 49vw;
+        width: 52%;
         height: 34vw;
     }
     .impulse4{
-        width: 42vw;
+        width: 50%;
         height: 60vw;
     }
     .buttonSecontSection{
