@@ -73,9 +73,7 @@
     width: 32%;
     height: 15vw;
     top: 14.5vw;
-    right: 32%;
-    margin-right: 3.5%;
-    z-index: 1;
+    right: 24vw;
 }
 .impulse3{
     margin-top: 1%;
@@ -104,11 +102,11 @@
     .containerTextSecondSection{
         position: relative;
         font-size: 2.6vw;
-        padding: 0% 22.3vw 1vw 1vw;
+        padding: 0vw 22.3vw 1vw 1vw;
         height: 38vw;
         right: 95.5vw;
         top: 57vw;
-        margin: 0vw;
+        margin-left: 5vw;
         text-align: left;
     }
     .logo_bco{
@@ -143,7 +141,6 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        padding-left: 1.2vw;
         height: 26vw;
         width: 48vw;
     }
@@ -153,8 +150,7 @@
         height: 24vw;
         top: 31vw;
         right: 49vw;
-        padding-left: 1vw;
-        z-index: 1;
+        margin-left: 1vw;
     }
     .impulse3{
         margin-top: 1vw;
