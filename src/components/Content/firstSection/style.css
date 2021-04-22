@@ -73,20 +73,20 @@
         border-radius: 15px;
     }
     .containerAsssistanceImg1{
-        height: 40vh;
-        width: 80%;
+        height: 30vh;
+        width: 50%;
         margin-top: -1vw;
         border-radius: 10px;
     }
     .containerAsssistanceImg2{
-        height: 35vh;
-        width: 80%;
+        height: 30vh;
+        width: 55%;
         margin-top: 2vw;
         border-radius: 10px;
     }
     .containerAsssistanceImg3{
-        height: 45vh;
-        width: 80%;
+        height: 30vh;
+        width: 55%;
         border-radius: 10px;
     }
 }
