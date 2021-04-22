@@ -93,7 +93,7 @@
 @media screen and (max-width: 768px){
     .containerSecondSection{
         font-size: 4.4vw;
-        margin: 0vw 3vw 0vw 3vw;
+        margin: 0vw 3% 0vw 3%;
     }
     .contentSecondSection{
         display: inline-flex;
@@ -101,11 +101,11 @@
     .containerTextSecondSection{
         position: relative;
         font-size: 2.6vw;
-        padding: 0vw 24vw 1vw 1vw;
+        padding: 0vw 27% 1% 1%;
         height: 38vw;
-        right: 92vw;
+        right: 93.5vw;
         top: 57vw;
-        margin: 0vw 1vw 0vw 4.5vw;
+        margin: 0% 1% 0vw 4.5%;
         text-align: left;
     }
     .logo_bco{
@@ -140,19 +140,19 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        width: 48%;
+        width: 47%;
         height: 26vw;
-        margin: 0vw 0vw 0vw 2vw;
+        margin: 0vw 0vw 0vw 2%;
         padding: 0vw;
     }
     .impulse2{
         position: relative;
-        width: 48%;
+        width: 47%;
         height: 24vw;
         top: 31vw;
-        right: 45vw;
+        right: 44vw;
         padding: 0vw;
-        margin: 0vw;
+        margin-right: 1%;
     }
     .impulse3{
         margin-top: 1vw;
@@ -160,12 +160,12 @@
         height: 34vw;
     }
     .impulse4{
-        width: 50%;
+        width: 52%;
         height: 60vw;
     }
     .buttonSecontSection{
         margin-top: 32vw;
-        right: 4vw;
+        right: 3.5%;
         font-size: 3.2vw;
         padding: 1.7vw;
     }
