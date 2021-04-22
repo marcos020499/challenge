@@ -64,16 +64,16 @@
     color: rgb(174, 177, 184);
 }
 .impulse1{
-    margin-left: 0.4vw;
-    width: 35%;
+    margin-left: 1vw;
+    width: 25vw;
     height: 14vw;
 }
 .impulse2{
     position: relative;
-    width: 35%;
+    width: 25vw;
     height: 15vw;
     top: 15.5vw;
-    right: 26.3vw;
+    right: 25vw;
 }
 .impulse3{
     margin-top: 0.4vw;
@@ -104,7 +104,7 @@
         font-size: 2.6vw;
         padding: 0vw 22.3vw 1vw 1vw;
         height: 38vw;
-        right: 46vw;
+        right: 95.5vw;
         top: 57vw;
         margin: 0vw 1vw 0vw 4.5vw;
         text-align: left;
@@ -141,19 +141,11 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        width: 50vw;
+        width: 62%;
         height: 26vw;
         margin: 0vw 0vw 0vw 2vw;
         padding: 0vw;
     }
-    .impulse2{
-        position: absolute;
-        top: 300vw;
-        width: 50vw;
-        height: 26vw;
-        right: 3vw;
-    }
-    /*
     .impulse2{
         position: relative;
         width: 50vw;
@@ -162,7 +154,7 @@
         right: 49.7vw;
         padding: 0vw;
         margin: 0vw;
-    }*/
+    }
     .impulse3{
         margin-top: 1vw;
         width: 49vw;
