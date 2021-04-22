@@ -21,6 +21,9 @@ body{
 a:hover{
     color: rgb(125, 125, 165);
 }
+span:hover{
+    color: rgb(125, 125, 165);
+}
 button:hover{
     color: rgb(125, 125, 165);
 }
@@ -86,7 +89,7 @@ button:hover{
         display: inline-flex;
         color: rgb(57, 57, 150);
         text-decoration: none;
-        opacity: 90%;
+        opacity: none;
         text-align: center;
     }
     .modalContainer a{

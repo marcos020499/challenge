@@ -103,21 +103,21 @@
         width: 80vh;
     }
     .containerTextSecondSection{
-        position: absolute;
+        position: relative;
         font-size: 2.8vw;
-        padding: 2% 1.5% 2% 2%;
-        width: 23.5vh;
-        height: 24vh;
-        right: 3.5%;
-        top: 234vh;
+        padding: 0% 27vw 1vw 1vw;
+        height: 38vw;
+        right: 97vw;
+        top: 57vw;
         margin: 0%;
-        text-align: center;
+        text-align: justify;
     }
     .logo_bco{
-        position: relative;
-        right: 2%;
-        top: -2%;
-        width: 45%;
+        position: inherit;
+        padding: 0vw;
+        right: -20vw;
+        top: -35vw;
+        width: 15vw;
     }
     .smallSecondText{
         font-size: 1.8vh;
@@ -145,36 +145,30 @@
     }
     .impulse1{
         margin-left: 2%;
-        width: 32%;
-        height: 16vh;
+        width: 50vw;
+        height: 26vw;
     }
     .impulse2{
         position: relative;
-        width: 32%;
-        height: 14vh;
+        width: 50vw;
+        height: 24vw;
         top: 31vw;
-        right: 32%;
-        margin-right: 3.5%;
+        right: 50vw;
+        margin-right: 3.5vw;
         z-index: 1;
     }
     .impulse3{
         margin-top: 1%;
-        width: 49%;
-        height: 18vh;
+        width: 49vw;
+        height: 34vw;
     }
     .impulse4{
-        width: 32%;
-        height: 40vh;
+        width: 42vw;
+        height: 60vw;
     }
     .buttonSecontSection{
-        right: 3%;
-        margin-top: 32%;
-        padding: 1.5%;
-        z-index: 2;
-        border: 0px solid black;
-        font-weight: lighter;
-        border-radius: 8px;
-        background-color: rgb(57, 57, 150);
-        color: white;
+        margin-top: 32vw;
+        right: 4vw;
+        padding: 1.5vw;
     }
 }

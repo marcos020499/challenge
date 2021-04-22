@@ -26,12 +26,12 @@
     text-align: center;
     background-color: white;
     padding: 0%;
-    font-size: 0.9vw;
+    font-size: 1.1vw;
     font-family: 'pacifico';
     font-weight: lighter;
     letter-spacing: 0.5px;
 }
-.containerAsssistance h5{ 
+.containerAsssistance p{ 
     opacity: 50%;
 }
 .containerAsssistanceImg1{
@@ -66,8 +66,9 @@
         margin: 2%;
         border-radius: 20px;
     }
-    .containerFirstSection h5{
+    .containerFirstSection p{
         font-size: 4vw;
+        opacity: none;
     }
     .containerAsssistanceImg1{
         height: 40vh;
