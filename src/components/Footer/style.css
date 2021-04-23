@@ -45,9 +45,8 @@
     .infoFooter{
         color: white;
         text-decoration: none;
-        align-items: center;
         font-size: 2vh;
-        margin: 0% 2% 0% 2%;
+        margin: 0% 10vw 0% 10vw;
         padding: 2%;
         position: relative;
         right: 0.01vh;
