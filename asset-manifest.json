@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/challenge/static/css/main.7b0f0353.chunk.css",
+    "main.js": "/challenge/static/js/main.bf3fe099.chunk.js",
+    "main.js.map": "/challenge/static/js/main.bf3fe099.chunk.js.map",
+    "runtime-main.js": "/challenge/static/js/runtime-main.1dadddae.js",
+    "runtime-main.js.map": "/challenge/static/js/runtime-main.1dadddae.js.map",
+    "static/css/2.4ab72d77.chunk.css": "/challenge/static/css/2.4ab72d77.chunk.css",
+    "static/js/2.902eb2f8.chunk.js": "/challenge/static/js/2.902eb2f8.chunk.js",
+    "static/js/2.902eb2f8.chunk.js.map": "/challenge/static/js/2.902eb2f8.chunk.js.map",
+    "index.html": "/challenge/index.html",
+    "static/css/2.4ab72d77.chunk.css.map": "/challenge/static/css/2.4ab72d77.chunk.css.map",
+    "static/css/main.7b0f0353.chunk.css.map": "/challenge/static/css/main.7b0f0353.chunk.css.map",
+    "static/js/2.902eb2f8.chunk.js.LICENSE.txt": "/challenge/static/js/2.902eb2f8.chunk.js.LICENSE.txt",
+    "static/media/00_impulse1.a8ad2bf0.jpg": "/challenge/static/media/00_impulse1.a8ad2bf0.jpg",
+    "static/media/00_impulse2.120a7eec.jpg": "/challenge/static/media/00_impulse2.120a7eec.jpg",
+    "static/media/00_impulse3.ca7bf0ef.jpg": "/challenge/static/media/00_impulse3.ca7bf0ef.jpg",
+    "static/media/00_impulse4.3a0d66f7.jpg": "/challenge/static/media/00_impulse4.3a0d66f7.jpg",
+    "static/media/00_social_asssistance1.223ddeec.jpg": "/challenge/static/media/00_social_asssistance1.223ddeec.jpg",
+    "static/media/00_social_asssistance2.8ea5e1da.jpg": "/challenge/static/media/00_social_asssistance2.8ea5e1da.jpg",
+    "static/media/00_social_asssistance3.f4083136.jpg": "/challenge/static/media/00_social_asssistance3.f4083136.jpg",
+    "static/media/fb.bb631419.svg": "/challenge/static/media/fb.bb631419.svg",
+    "static/media/font-awesome.min.css": "/challenge/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/logo_azul.4f3146b6.svg": "/challenge/static/media/logo_azul.4f3146b6.svg",
+    "static/media/logo_bco.b4f707f9.svg": "/challenge/static/media/logo_bco.b4f707f9.svg",
+    "static/media/logo_bco_completo.0f72eefb.svg": "/challenge/static/media/logo_bco_completo.0f72eefb.svg",
+    "static/media/style.css": "/challenge/static/media/poppins_regular.77cce368.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dadddae.js",
+    "static/css/2.4ab72d77.chunk.css",
+    "static/js/2.902eb2f8.chunk.js",
+    "static/css/main.7b0f0353.chunk.css",
+    "static/js/main.bf3fe099.chunk.js"
+  ]
+}
