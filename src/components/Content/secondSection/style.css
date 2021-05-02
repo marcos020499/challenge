@@ -84,6 +84,9 @@
     width: 32.3%;
     height: 19vw;
 }
+.impulse3-1{
+    display: none;
+}
 .impulse4{
     width: 29vw;
     height: 45.7vw;
@@ -150,23 +153,24 @@
         padding: 0vw;
         right: 0vh;
         width: 18vw;
+        margin-top: -3vh;
     }
 }
 @media screen and (max-width: 525px){
     .containerSecondSection{
         font-size: 4.4vw;
-        margin: 0vw 3% 0vw 3%;
+        margin: 0vw 7% 0vw 7%;
     }
-
+    .contentSecondSection{
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
     .containerTextSecondSection{
-        position: relative;
-        font-size: 2.6vw;
-        padding: 0vw 22% 1% 1%;
-        height: 39vw;
-        right: 91.5vw;
-        top: 56vw;
-        margin: 0% 1% 0vw 8.5%;
-        text-align: left;
+        position: initial;
+        width: 96%;
+        margin: 7vw 0 0 0 ;
+        
     }
     .logo_bco{
         padding: 0vw;
@@ -186,8 +190,8 @@
         display: initial;
     }
     .secondContainerTextSecondSection{
-        margin: 4vw 0% 0% 0.5vw;
-        width: 90vw;
+        margin: 4vw 0% 0% 0%;
+        width: 96%;
         font-size: 3.8vw;
         color: rgb(98, 100, 106);
         text-align: center;
@@ -198,32 +202,33 @@
         font-size: 3.4vw;
     }
     .impulse1{
-        width: 42%;
-        height: 26vw;
-        margin: 0vw 0vw 0vw 3%;
-        padding: 0vw;
+        margin: 7vw 0 0 -1.6vw;
+        width: 100%;
+        height: 46vw;
     }
     .impulse2{
-        position: relative;
-        width: 42%;
-        height: 24vw;
-        top: 29vw;
-        right: 44vw;
-        padding: 0vw;
-        margin-left: 5%;
+        right: 0vw;
+        top: 0;
+        padding: 0%;
+        width: 100%;
+        height: 46vw;
     }
     .impulse3{
-        margin-top: 1vw;
-        width: 55%;
-        height: 34vw;
+        display: none;
+    }
+    .impulse3-1{
+        margin-top: 7vw;
+        display: initial;
+        width: 100%;
+        height: 60vw;
     }
     .impulse4{
-        width: 55%;
+        width: 100%;
         height: 60vw;
     }
     .buttonSecontSection{
-        margin-top: 32vw;
-        right: 3.5%;
+        margin-top: 70vw;
+        right: 9%;
         font-size: 3.2vw;
         padding: 1.7vw;
     }

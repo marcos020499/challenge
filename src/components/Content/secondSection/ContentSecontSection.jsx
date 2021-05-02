@@ -22,6 +22,7 @@ class Content extends Component {
                   <img src={impulse4} alt="" className='impulse4'/>
                   <img src={impulse1} alt="" className='impulse1'/>
                   <img src={impulse2} alt="" className='impulse2'/>
+                  <img src={impulse3} alt="" className='impulse3-1'/>
                   <button className='buttonSecontSection'>!Màs informaciòn¡</button>
                   <div className='containerTextSecondSection'>
                      <p>Nuestro objetivo es ayudar a que las familiar mejoren <small className='smallSecondText'>su calidad de vida.</small></p>
