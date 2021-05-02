@@ -24,7 +24,6 @@ class Header extends Component {
       return (
          <div>
             <img src={iconHeader} alt="" className='iconHeader'/>
-            <h3 className='fundationNameHeader'>Fundaciòn Lolita Barragàn</h3>
             <div className='containerHeader'>
             <span href='/' onClick={this.openModal} className='modalNavegation'><i className='fa fa-bars'></i></span>
                <div className='infoHeader'>
