@@ -22,7 +22,7 @@ class Content extends Component {
                      <img src={social_asssistance1} className='containerAsssistanceImg1' alt=""/>
                      <p>Somos una instituciòn</p>
                   </div>
-                  <div className='containerAsssistance'>
+                  <div className='containerAsssistanceSecontContainer'>
                      <img src={social_asssistance2} className='containerAsssistanceImg2' alt=""/>
                      <p>que busca el bienestar social, no por cumplir una estadìsticas</p>
                   </div>

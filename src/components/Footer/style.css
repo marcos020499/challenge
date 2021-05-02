@@ -1,5 +1,5 @@
 .containerFooter{
-    background-color: rgb(57, 57, 150);
+    background-color: #2b388f;
     text-align: center;
     padding: 0%;
     margin: 0%;
@@ -7,11 +7,12 @@
 .fundationName{
     color: white;
     margin: 0%;
-    font-size: 1.4vw;
+    font-size: 24px;
     font-family: 'patua';
+    letter-spacing: -1.2px;
 }
 .logo_bcoFooter{
-    width: 4vh;
+    width: 50px;
     margin-top: 1%;
 }
 .infoFooter{
@@ -20,20 +21,20 @@
     display: flex;
     right: -29%;
     align-items: center;
-    font-size: 1.2vh;
+    font-size: 18px;
     margin: 0% 2.5% 0% 0%;
     font-family: 'poppins_regular';
 }
 .textFooter{
     color: white;
     text-decoration: none;
-    font-size: 1.6vh;
+    font-size: 14px;
     margin: 2%;
     font-family: 'poppins_regular';
 }
 .AliatFooter{
     color: white;
-    font-size: 1.6vh;
+    font-size: 15px;
     padding-bottom: 1%;
     font-family: 'poppins_regular';
     font-weight: 100;

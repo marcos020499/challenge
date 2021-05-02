@@ -33,7 +33,7 @@ button:hover{
     margin-right: 3%;
 }
 .iconHeader{
-    width: 4vh;
+    width: 7vh;
     margin: 1% 0% 0% 3%;
     position: relative;
 }
@@ -42,13 +42,13 @@ button:hover{
     position: relative;
     top: -5vh;
     right: -2vh;
-    font-size: 1.5vh;
+    font-size: 16px;
     font-weight: initial;
     font-family: 'poppins_regular';
     white-space: nowrap;
     padding-right: 2%;
     align-items: center;
-    color:rgb(57, 57, 150);
+    color:#2b388f;
     text-decoration: none;
 }
 .modalNavegation{
@@ -57,7 +57,7 @@ button:hover{
 .fundationNameHeader{
     display: none;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 525px){
     .infoHeader{
         display: none;
     }
@@ -67,7 +67,7 @@ button:hover{
         right: -50%;
         font-size: 7vw;
         margin-bottom: 3%;
-        color: rgb(57, 57, 150);
+        color: #2b388f;
     }
     .iconHeader{
         position: relative;
@@ -76,7 +76,7 @@ button:hover{
     }
     .fundationNameHeader{
         display: flex;
-        color:rgb(57, 57, 150);
+        color:#2b388f;
         font-family: 'pacifico';
         font-weight: lighter;
         font-size: 5vw;
@@ -87,13 +87,13 @@ button:hover{
     }
     .modalContainer{
         display: inline-flex;
-        color: rgb(57, 57, 150);
+        color: #2b388f;
         text-decoration: none;
         opacity: none;
         text-align: center;
     }
     .modalContainer a{
-        color: rgb(57, 57, 150);
+        color: #2b388f;
         font-size: 4vw;
         margin: 0%;
         padding: 0%;
