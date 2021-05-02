@@ -21,6 +21,7 @@ class Header extends Component {
       this.setState({ shouldShowModal: true });
     } 
    render() {
+      
       return (
          <div>
             <img src={iconHeader} alt="" className='iconHeader'/>
@@ -38,6 +39,7 @@ class Header extends Component {
                   <Modal
                      closeModal={this.closeModal}
                      shouldShowModal={this.state.shouldShowModal}
+                     className='modalSettings'
                   >
                      <div className='modal'>
                         <a href='/' className='textHeader'><p>Nosotros</p></a>

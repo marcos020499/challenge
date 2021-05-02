@@ -77,22 +77,34 @@ button:hover{
         margin: 2%;
     }
     .modalContainer{
-        display: inline-flex;
         color: #2b388f;
+        display: inline-flex;
         text-decoration: none;
         opacity: none;
         text-align: center;
+        width: 100%;
+        height: 100%;
     }
     .modalContainer a{
-        color: #2b388f;
+        color: white;
         font-size: 4vw;
         margin: 0%;
         padding: 0%;
+    }
+    .modalSettings{
+        width: 100%;
+        height: 100%;
+        color: blue;
+        background-color: blue;
     }
     a:hover{
         color: rgb(133, 133, 186);
     }
     .modal{
+        width: 100%;
+        height: 100%;
+        background-color: #2b388f;
         margin-top: 9vw;
+        color: white;
     }
 }
