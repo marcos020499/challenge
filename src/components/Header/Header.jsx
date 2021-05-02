@@ -21,7 +21,13 @@ class Header extends Component {
       this.setState({ shouldShowModal: true });
     } 
    render() {
-      
+      const modalStyle = {
+         animationTime: 700,
+         modalHeader: {
+         background: ' #2b388f',
+         color: ' #2b388f'
+         }
+       }
       return (
          <div>
             <img src={iconHeader} alt="" className='iconHeader'/>
@@ -40,6 +46,7 @@ class Header extends Component {
                      closeModal={this.closeModal}
                      shouldShowModal={this.state.shouldShowModal}
                      className='modalSettings'
+                     customStyle={modalStyle}
                   >
                      <div className='modal'>
                         <a href='/' className='textHeader'><p>Nosotros</p></a>
