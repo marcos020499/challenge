@@ -17,13 +17,13 @@ class Content extends Component {
       return (
          <>
             <div className='containerSecondSection'>
-               <h3>Obtèn un impulso para tu <small className='small'>negocio</small></h3>
+               <h3>Obtén un impulso para tu <small className='small'>negocio</small></h3>
                <div className='contentSecondSection'>
                   <img src={impulse4} alt="" className='impulse4'/>
                   <img src={impulse1} alt="" className='impulse1'/>
                   <img src={impulse2} alt="" className='impulse2'/>
                   <img src={impulse3} alt="" className='impulse3-1'/>
-                  <button className='buttonSecontSection'>!Màs informaciòn¡</button>
+                  <button className='buttonSecontSection'>!Más información¡</button>
                   <div className='containerTextSecondSection'>
                      <p>Nuestro objetivo es ayudar a que las familiar mejoren <small className='smallSecondText'>su calidad de vida.</small></p>
                      <img src={logo_bco} alt="" className='logo_bco'/>
@@ -32,7 +32,7 @@ class Content extends Component {
                <div className="contentSecondSectionTwo">
                   <img src={impulse3} alt="" className='impulse3'/>
                      <div className='secondContainerTextSecondSection'>
-                        <h4>!Màs de 340 crèditos otorgados a lo largo de 40 meses!</h4>
+                        <h4>!Más de 340 créditos otorgados a lo largo de 40 meses!</h4>
                         <p>Buscamos siempre llegar a las mujeres comprometidas con cumplir sus objetivos y mejorar su calidad de vida.</p>
                      </div>
                </div>
