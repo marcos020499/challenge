@@ -113,15 +113,7 @@
 }
 @media screen and (max-width: 525px){
     .contentTitle{
-        font-size: 38px;
         margin-top: -10%;
-    }
-    .contentDescription{
-        font-size: 20px;
-        margin: 0% 2% 1% 2%;
-        font-weight: lighter;
-        font-family: 'pacifico'; 
-        letter-spacing: 3px;
     }
     .containerFirstSection{
         display: flex;
@@ -129,11 +121,6 @@
         align-items: center;
         margin: 0% 2% 0% 2%;
         padding: 0.5vw;
-    }
-    .containerFirstSection p{
-        font-size: 4vw;
-        opacity: none;
-        padding-bottom: 4%;
     }
     .containerAsssistance{
         width: 90%;
