@@ -5,12 +5,6 @@ import social_asssistance2 from '../../../images/00_social_asssistance2.jpg'
 import social_asssistance3 from '../../../images/00_social_asssistance3.jpg'
 
 class Content extends Component {
-   constructor(props) {
-      super(props);
-         this.state = {
-         
-         }
-   }
    render() {
       return (
          <>

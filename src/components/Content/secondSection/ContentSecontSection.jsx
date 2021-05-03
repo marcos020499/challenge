@@ -7,12 +7,6 @@ import impulse3 from '../../../images/00_impulse3.jpg'
 import logo_bco from '../../../images/logo_bco_completo.svg'
 
 class Content extends Component {
-   constructor(props) {
-      super(props);
-         this.state = {
-         
-         }
-   }
    render() {
       return (
          <>
