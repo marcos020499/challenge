@@ -51,18 +51,19 @@
 .secondContainerTextSecondSection{
     position: relative;
     top: 20%;
-    margin: 0% -0.5% 0% 2.2%;
+    margin: 0% -1.5% 2% 2.2%;
     width: 80%;
-    font-size: 28px;
+    font-size: 27px;
     color: rgb(140, 142, 148);
     text-align: center;
     border: 1px solid rgb(57, 57, 150);
     padding: 0% 1% 0% 1%;
     font-family: 'patua';
     font-weight: lighter;
+    height: 21vw;
 }
 .secondContainerTextSecondSection p{
-    font-size: 22px;
+    font-size: 20px;
     font-family: 'poppins_medium';
     color: rgb(174, 177, 184);
 }
@@ -82,7 +83,7 @@
 .impulse3{
     margin-top: 1.2vw;
     width: 32.3%;
-    height: 19vw;
+    height: 19.8vw;
 }
 .impulse3-1{
     display: none;
@@ -142,6 +143,7 @@
         margin-right: 0.02vw;
         font-size: 3.4vw;
         padding-bottom: 2vw;
+        height: 32vw;
     }
     .secondContainerTextSecondSection h4{
         margin:4% 0 0 0;
