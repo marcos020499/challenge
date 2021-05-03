@@ -20,11 +20,11 @@ class Content extends Component {
                <div className='containerFirstSection' style={{fontSize: '2%'}}>
                   <div className='containerAsssistance'>
                      <img src={social_asssistance1} className='containerAsssistanceImg1' alt=""/>
-                     <p>Somos una instituciòn</p>
+                     <p>Somos una institución</p>
                   </div>
                   <div className='containerAsssistanceSecontContainer'>
                      <img src={social_asssistance2} className='containerAsssistanceImg2' alt=""/>
-                     <p>que busca el bienestar social, no por cumplir una estadìsticas</p>
+                     <p>que busca el bienestar social, no por cumplir una estadísticas</p>
                   </div>
                   <div className='containerAsssistance'>
                      <img src={social_asssistance3} className='containerAsssistanceImg3' alt=""/>

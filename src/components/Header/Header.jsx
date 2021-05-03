@@ -37,7 +37,7 @@ class Header extends Component {
                   <a href='/' className='textHeader'>Nosotros</a>
                   <a href='/' className='textHeader'>Historia</a>
                   <a href='/' className='textHeader'>Labor Social</a>
-                  <a href='/' className='textHeader'>Crèditos</a>
+                  <a href='/' className='textHeader'>Créditos</a>
                   <a href='/' className='textHeader'>Contacto</a>
                </div>
             </div>
@@ -52,7 +52,7 @@ class Header extends Component {
                         <a href='/' className='textHeader'><p>Nosotros</p></a>
                         <a href='/' className='textHeader'><p>Historia</p></a>
                         <a href='/' className='textHeader'><p>Labor Social</p></a>
-                        <a href='/' className='textHeader'><p>Crèditos</p></a>
+                        <a href='/' className='textHeader'><p>Créditos</p></a>
                         <a href='/' className='textHeader'><p>Contacto</p></a>
                      </div>
                   </Modal>
