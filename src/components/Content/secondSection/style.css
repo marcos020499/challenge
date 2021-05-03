@@ -173,14 +173,15 @@
         width: 96.4%;
         margin: 7vw 0 0 0 ;
         height: 63vw;
+        font-size: 5vw;
     }
     .logo_bco{
-        padding: 0vw;
+        padding-top: 4vw;
         right: 0vh;
         width: 20vw;
     }
     .smallSecondText{
-        font-size: 3.1vw;
+        font-size: 5.1vw;
     }
     .small{
         font-size: 5vw;
@@ -193,12 +194,13 @@
     }
     .secondContainerTextSecondSection{
         margin: 4vw 0% 0% -0.4%;
-        width: 97%;
+        width: 99%;
         font-size: 3.8vw;
         color: rgb(98, 100, 106);
         text-align: center;
         border: 0.7vw solid #2b388f;;
         margin-bottom: 5vw;
+        padding: 3vw 0 6vw 0;
     }
     .secondContainerTextSecondSection p {
         font-size: 3.4vw;

@@ -9,7 +9,7 @@
 }
 .contentDescription{
     text-align: center;
-    color: rgb(164, 161, 161);
+    color: #6e728e;
     font-size: 22px;
     margin: 0% 0% 1% 0%;
     font-weight: lighter;
@@ -28,7 +28,7 @@
     text-align: center;
     background-color: white;
     padding: 0%;
-    color: rgb(126, 125, 125);
+    color: #6e728e;
     font-size: 18px;
     font-family: 'pacifico';
     font-weight: lighter;
@@ -114,6 +114,7 @@
 @media screen and (max-width: 525px){
     .contentTitle{
         font-size: 38px;
+        margin-top: -10%;
     }
     .contentDescription{
         font-size: 20px;
