@@ -1,8 +1,12 @@
 .containerFooter{
     background-color: #2b388f;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     text-align: center;
+    align-items: center;
     padding: 0%;
-    margin: 0%;
+    margin: 0% 0 0 0;
 }
 .fundationName{
     color: white;
@@ -19,17 +23,15 @@
     color: white;
     position: relative;
     display: flex;
-    right: -29%;
     align-items: center;
     font-size: 18px;
-    margin: 0% 2.5% 0% 0%;
     font-family: 'poppins_regular';
 }
 .textFooter{
     color: white;
     text-decoration: none;
     font-size: 14px;
-    margin: 2%;
+    padding-left: 6vw;
     font-family: 'poppins_regular';
 }
 .AliatFooter{
@@ -39,18 +41,19 @@
     font-family: 'poppins_regular';
     font-weight: 100;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 525px){
     .logo_bcoFooter{
         width: 10vh;
     }
     .infoFooter{
         color: white;
         text-decoration: none;
-        font-size: 2vh;
-        margin: 0% 10vw 0% 10vw;
-        padding: 2%;
+        font-size: 1.8vh;
         position: relative;
-        right: 0.01vh;
+    }
+    .textFooter{
+        padding-left: 4vw;
+        margin-left: -0.5%;
     }
     .AliatFooter{
         font-size: 1.8vh;
