@@ -197,7 +197,7 @@
     .secondContainerTextSecondSection{
         margin: 4vw 0% 0% -0.4%;
         width: 99%;
-        font-size: 3.8vw;
+        font-size: 4.8vw;
         color: rgb(98, 100, 106);
         text-align: center;
         border: 0.7vw solid #2b388f;;
@@ -205,7 +205,8 @@
         padding: 3vw 0 6vw 0;
     }
     .secondContainerTextSecondSection p {
-        font-size: 3.4vw;
+        margin-top: 4vw;
+        font-size: 3.8vw;
     }
     .impulse1{
         margin: 7vw 0 0 -2.7vw;
