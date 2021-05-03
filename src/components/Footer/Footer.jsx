@@ -3,12 +3,6 @@ import './style.css'
 import logo_bco from '../../images/logo_bco.svg'
 import fb from '../../images/fb.svg'
 class Header extends Component {
-   constructor(props) {
-      super(props);
-         this.state = {
-         
-         }
-   }
    render() {
       return (
          <div className='containerFooter'>
