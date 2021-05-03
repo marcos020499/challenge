@@ -1,8 +1,8 @@
-import { Component } from 'react';
+import { PureComponent } from 'react';
 import './style.css'
 import logo_bco from '../../images/logo_bco.svg'
 import fb from '../../images/fb.svg'
-class Header extends Component {
+class Header extends PureComponent {
    render() {
       return (
          <div className='containerFooter'>

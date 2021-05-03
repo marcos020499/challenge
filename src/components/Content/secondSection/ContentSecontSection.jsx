@@ -1,4 +1,4 @@
-import { Component } from 'react';
+import { PureComponent } from 'react';
 import './style.css'
 import impulse4 from '../../../images/00_impulse4.jpg'
 import impulse1 from '../../../images/00_impulse1.jpg'
@@ -6,7 +6,7 @@ import impulse2 from '../../../images/00_impulse2.jpg'
 import impulse3 from '../../../images/00_impulse3.jpg'
 import logo_bco from '../../../images/logo_bco_completo.svg'
 
-class Content extends Component {
+class Content extends PureComponent {
    render() {
       return (
          <>

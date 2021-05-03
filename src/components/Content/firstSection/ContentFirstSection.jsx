@@ -1,10 +1,10 @@
-import { Component } from 'react';
+import { PureComponent } from 'react';
 import './style.css'
 import social_asssistance1 from '../../../images/00_social_asssistance1.jpg'
 import social_asssistance2 from '../../../images/00_social_asssistance2.jpg'
 import social_asssistance3 from '../../../images/00_social_asssistance3.jpg'
 
-class Content extends Component {
+class Content extends PureComponent {
    render() {
       return (
          <>

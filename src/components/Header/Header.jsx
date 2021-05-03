@@ -1,9 +1,9 @@
-import { Component } from 'react';
+import { PureComponent } from 'react';
 import './style.css'
 import iconHeader from '../../images/logo_azul.svg'
 import 'font-awesome/css/font-awesome.min.css';
 import Modal from '@bdenzer/react-modal';
-class Header extends Component {
+class Header extends PureComponent {
    constructor(props) {
       super(props);
       this.state = {
