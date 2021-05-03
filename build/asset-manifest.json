@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/challenge/static/css/main.abc50baa.chunk.css",
-    "main.js": "/challenge/static/js/main.c2c45076.chunk.js",
-    "main.js.map": "/challenge/static/js/main.c2c45076.chunk.js.map",
+    "main.css": "/challenge/static/css/main.ec70e162.chunk.css",
+    "main.js": "/challenge/static/js/main.b6148098.chunk.js",
+    "main.js.map": "/challenge/static/js/main.b6148098.chunk.js.map",
     "runtime-main.js": "/challenge/static/js/runtime-main.1dadddae.js",
     "runtime-main.js.map": "/challenge/static/js/runtime-main.1dadddae.js.map",
     "static/css/2.4ab72d77.chunk.css": "/challenge/static/css/2.4ab72d77.chunk.css",
@@ -10,12 +10,12 @@
     "static/js/2.902eb2f8.chunk.js.map": "/challenge/static/js/2.902eb2f8.chunk.js.map",
     "index.html": "/challenge/index.html",
     "static/css/2.4ab72d77.chunk.css.map": "/challenge/static/css/2.4ab72d77.chunk.css.map",
-    "static/css/main.abc50baa.chunk.css.map": "/challenge/static/css/main.abc50baa.chunk.css.map",
+    "static/css/main.ec70e162.chunk.css.map": "/challenge/static/css/main.ec70e162.chunk.css.map",
     "static/js/2.902eb2f8.chunk.js.LICENSE.txt": "/challenge/static/js/2.902eb2f8.chunk.js.LICENSE.txt",
     "static/media/00_impulse1.a8ad2bf0.jpg": "/challenge/static/media/00_impulse1.a8ad2bf0.jpg",
     "static/media/00_impulse2.120a7eec.jpg": "/challenge/static/media/00_impulse2.120a7eec.jpg",
     "static/media/00_impulse3.ca7bf0ef.jpg": "/challenge/static/media/00_impulse3.ca7bf0ef.jpg",
-    "static/media/00_impulse4.3a0d66f7.jpg": "/challenge/static/media/00_impulse4.3a0d66f7.jpg",
+    "static/media/00_impulse4.e5901429.jpg": "/challenge/static/media/00_impulse4.e5901429.jpg",
     "static/media/00_social_asssistance1.223ddeec.jpg": "/challenge/static/media/00_social_asssistance1.223ddeec.jpg",
     "static/media/00_social_asssistance2.8ea5e1da.jpg": "/challenge/static/media/00_social_asssistance2.8ea5e1da.jpg",
     "static/media/00_social_asssistance3.f4083136.jpg": "/challenge/static/media/00_social_asssistance3.f4083136.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.1dadddae.js",
     "static/css/2.4ab72d77.chunk.css",
     "static/js/2.902eb2f8.chunk.js",
-    "static/css/main.abc50baa.chunk.css",
-    "static/js/main.c2c45076.chunk.js"
+    "static/css/main.ec70e162.chunk.css",
+    "static/js/main.b6148098.chunk.js"
   ]
 }
