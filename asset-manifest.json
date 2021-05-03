@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/challenge/static/css/main.bffdb159.chunk.css",
+    "main.css": "/challenge/static/css/main.561a9ffb.chunk.css",
     "main.js": "/challenge/static/js/main.b6148098.chunk.js",
     "main.js.map": "/challenge/static/js/main.b6148098.chunk.js.map",
     "runtime-main.js": "/challenge/static/js/runtime-main.1dadddae.js",
@@ -10,7 +10,7 @@
     "static/js/2.902eb2f8.chunk.js.map": "/challenge/static/js/2.902eb2f8.chunk.js.map",
     "index.html": "/challenge/index.html",
     "static/css/2.4ab72d77.chunk.css.map": "/challenge/static/css/2.4ab72d77.chunk.css.map",
-    "static/css/main.bffdb159.chunk.css.map": "/challenge/static/css/main.bffdb159.chunk.css.map",
+    "static/css/main.561a9ffb.chunk.css.map": "/challenge/static/css/main.561a9ffb.chunk.css.map",
     "static/js/2.902eb2f8.chunk.js.LICENSE.txt": "/challenge/static/js/2.902eb2f8.chunk.js.LICENSE.txt",
     "static/media/00_impulse1.a8ad2bf0.jpg": "/challenge/static/media/00_impulse1.a8ad2bf0.jpg",
     "static/media/00_impulse2.120a7eec.jpg": "/challenge/static/media/00_impulse2.120a7eec.jpg",
@@ -30,7 +30,7 @@
     "static/js/runtime-main.1dadddae.js",
     "static/css/2.4ab72d77.chunk.css",
     "static/js/2.902eb2f8.chunk.js",
-    "static/css/main.bffdb159.chunk.css",
+    "static/css/main.561a9ffb.chunk.css",
     "static/js/main.b6148098.chunk.js"
   ]
 }
